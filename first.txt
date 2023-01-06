@@ -23,3 +23,5 @@ git commit -v
 git log
 ┗commitの履歴を表示
 
+git diff
+┗差分を確認
