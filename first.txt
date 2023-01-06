@@ -4,6 +4,9 @@ git add ファイル名
 git add .　←これは全てのファイルを対象にする
 ┗ステージングに格納する
 
+git rm
+┗ファイルを削除する
+
 git commit
 ┗ローカルリポジトリに保管する
 
@@ -17,3 +20,4 @@ git commit -v
 
 git log
 ┗commitの履歴を表示
+
